@@ -1,0 +1,12 @@
+{
+    "name": "undefinedio/timber",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Vincent Peters",
+            "email": "me@vincentpeters.be"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
